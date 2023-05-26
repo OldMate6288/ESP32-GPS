@@ -43,6 +43,8 @@ TFT_eSPI
 
 TinyGPS++
 
+ESPAsyncWebServer
+
 AsyncTCP
 
 ## 3. Edit WiFi.softAP in the code to your desired Access Point name and password
