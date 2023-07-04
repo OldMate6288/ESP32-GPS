@@ -54,7 +54,7 @@ WiFi.softAP("YOURAPNAME", "YOURAPPASSWORD");
 
 ## 4. Run the code, then connect to the WiFi access point and naviagte to 192.168.4.1 on your device.
 
-## 5. Wait for your GPS to get satellite signal and you should start to see your coordinates and other data displayed in real timme on the LCD and webserver.
+## 5. Wait for your GPS to get satellite signal and you should start to see your coordinates and other data displayed in real time on the LCD and webserver.
 
 # ISSUES
 
